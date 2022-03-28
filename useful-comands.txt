@@ -1,0 +1,43 @@
+1)to create new react app
+npx create-react-app react-tutorial
+
+2)To install Sass
+npm install node-sass
+
+3)to run css we need
+   './style.scss'
+
+4)to run terminal
+    npm start
+
+5)stop terminal
+    ctrl + c and press y
+
+6)exit from terminal
+    type exit   
+
+7)To install Bootstrap
+  npm i bootstrap
+  import 'bootstrap/dist/css/bootstrap.css'; add in app.js file
+
+8) shortcut for react code (rfce)  
+
+
+
+To add in git
+
+Open your terminal and then type
+
+$ git clone {the url to the GitHub repo}
+
+This clones the repo
+
+cd into the new folder and type
+
+$ npm install
+
+This installs the required dependencies
+
+To run the React project.
+$ npm start
+            
